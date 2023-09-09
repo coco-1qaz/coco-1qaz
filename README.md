@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on mine
 - 📫 You can to reach me :
--     +86 19975258574
+-     coco12345qwert@gmail.com
+              or
+      coco1qaz@outlook.com
 
 <!---
 coco-1qaz/coco-1qaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
