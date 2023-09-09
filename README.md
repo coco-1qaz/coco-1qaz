@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coco-1qaz
 - 👀 I’m interested in science and technology
-- 🌱 I’m currently learning technology
+- 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on mine
 - 📫 You can to reach me :
 -     +86 19975258574
